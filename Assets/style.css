@@ -9,9 +9,9 @@ body {
 
 header {
   padding: 40px;
-  text-align: center;
-  background: #13293d;
-  color: #fff;
+  text-align: right;
+  color: #2f373d;
+  background: rgb(78, 207, 230);
 }
 
 /* 
@@ -20,14 +20,14 @@ The flex container becomes flexible
 */
 nav {
   display: flex;
-  background-color: #d8a47f;
+  background-color: #2f373d;
 }
 
 nav a {
-  color: #13293d;
+  color: rgb(78, 207, 230);
   padding: 14px 20px;
   text-decoration: none;
-  text-align: center;
+  text-align: right;
 }
 
 /* 
